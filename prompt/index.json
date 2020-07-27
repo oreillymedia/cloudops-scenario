@@ -17,12 +17,12 @@
         "text": "step3.md"
       },
       {
-        "title": "",
+        "title": "Summary and requirements",
         "text": "step4.md"
       }],
       "intro": {
         "text": "intro.md",
-        "credits": "Summary and requirements"
+        "credits": ""
       },
       "finish": {
         "text": "finish.md"
