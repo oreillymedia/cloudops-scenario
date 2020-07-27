@@ -1,0 +1,38 @@
+{
+    "title": "Interview Prompt",
+    "description": "Interview prompt for Senior Cloud Engineer",
+    "difficulty": "beginner",
+    "time": "5 minutes",
+    "details": {
+      "steps": [{
+        "title": "Interview Overview",
+        "text": "step1.md"
+      },
+      {
+        "title": "API Definition",
+        "text": "step2.md"
+      },
+      {
+        "title": "Containerization and Deployment",
+        "text": "step3.md"
+      },
+      {
+        "title": "",
+        "text": "step4.md"
+      }],
+      "intro": {
+        "text": "intro.md",
+        "credits": "Summary and requirements"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
+    },
+    "backend": {
+      "imageid": "bash"
+    }
+  }

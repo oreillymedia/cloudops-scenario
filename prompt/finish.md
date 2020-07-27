@@ -1,0 +1,1 @@
+During your interview, we will review your submission, discuss the choices you made, cover how we might ready the app for production, and attempt to deploy it
