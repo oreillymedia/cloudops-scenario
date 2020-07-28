@@ -1,0 +1,26 @@
+{
+    "title": "Interview Prompt",
+    "description": "Live Deployment",
+    "difficulty": "Intermediate",
+    "time": "5 minutes",
+    "details": {
+      "steps": [{
+        "title": "Interview Overview",
+        "text": "step1.md"
+      }],
+      "intro": {
+        "text": "intro.md",
+        "code": "startup.sh",
+        "credits": ""
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "vscode-terminal-split"
+    },
+    "backend": {
+      "imageid": "minikube"
+    }
+  }
