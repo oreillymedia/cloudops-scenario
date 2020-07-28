@@ -5,7 +5,7 @@
     "time": "5 minutes",
     "details": {
       "steps": [{
-        "title": "Interview Overview",
+        "title": "Use Minikube for Deployment",
         "text": "step1.md"
       }],
       "intro": {
@@ -18,7 +18,7 @@
       }
     },
     "environment": {
-      "uilayout": "vscode-terminal-split"
+      "uilayout": "terminal"
     },
     "backend": {
       "imageid": "minikube"
