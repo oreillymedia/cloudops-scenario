@@ -5,7 +5,7 @@
     "time": "5 minutes",
     "details": {
       "steps": [{
-        "title": "Interview Overview",
+        "title": "Overview",
         "text": "step1.md"
       },
       {
