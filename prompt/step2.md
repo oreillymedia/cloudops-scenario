@@ -7,7 +7,8 @@ We recommend [registering](https://api-v3.mbta.com/register) (it's free and quic
 
 ## Specification
 
-Create a form which allow a commuter to enter a beginning and ending location. The following information should be rendered (jinja2, GoTemplate) in HTML:
+Create a form which allows a commuter to enter a beginning and ending location. The response of submitting this form should be rendered HTML with the following information: 
+
 - Predict when the next train/bus arrives
     - How does this deviate from the normal schedule?
 - Estimated commute time
