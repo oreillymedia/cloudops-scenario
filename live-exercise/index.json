@@ -11,6 +11,10 @@
         {
           "title": "Application Deployment",
           "text": "step2.md"
+        },
+        {
+          "title": "Debugging",
+          "text": "step3.md"
         }
       ],
       "intro": {
