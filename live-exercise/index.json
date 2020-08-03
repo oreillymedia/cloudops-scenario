@@ -5,9 +5,14 @@
     "time": "5 minutes",
     "details": {
       "steps": [{
-        "title": "Use Minikube for Deployment",
-        "text": "step1.md"
-      }],
+          "title": "Exercise Setup",
+          "text": "step1.md"
+        },
+        {
+          "title": "Application Deployment",
+          "text": "step2.md"
+        }
+      ],
       "intro": {
         "text": "intro.md",
         "code": "startup.sh",
