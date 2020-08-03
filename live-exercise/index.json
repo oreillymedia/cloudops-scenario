@@ -1,6 +1,6 @@
 {
-    "title": "Live Deployment",
-    "description": "Live Deployment",
+    "title": "Live Exercise",
+    "description": "Debugging live k8s application",
     "difficulty": "Intermediate",
     "time": "5 minutes",
     "details": {
