@@ -1,1 +1,1 @@
-Welcome to technical portion of the interview! Please read the following steps carefully to understand the assignment.
+Welcome to technical portion of the interview! Please carefully read the following steps to understand the assignment.

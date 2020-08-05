@@ -9,16 +9,12 @@
         "text": "step1.md"
       },
       {
-        "title": "API Definition",
+        "title": "API Definition and Deployment",
         "text": "step2.md"
       },
       {
-        "title": "Containerization and Deployment",
-        "text": "step3.md"
-      },
-      {
         "title": "Summary and requirements",
-        "text": "step4.md"
+        "text": "step3.md"
       }],
       "intro": {
         "text": "intro.md",

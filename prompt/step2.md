@@ -1,18 +1,12 @@
 
 ## Description
 
-Please develop a simple web server written in Python or Go that pulls data from the [MBTA API](https://www.mbta.com/developers/v3-api). 
+Please develop a simple application in Python or Go which does
 
-We recommend [registering](https://api-v3.mbta.com/register) (it's free and quick) to get an API Key which allows up to 1000 requests per minute. Requests with no API keys are limited to 20 per minute.
+## API Spec
 
-## Specification
+- 
 
-Create a form which allows a commuter to enter a beginning and ending location. The response of submitting this form should be rendered HTML with the following information: 
+## Deployment
 
-- Predict when the next train/bus arrives
-    - How does this deviate from the normal schedule?
-- Estimated commute time
-- Are there any transfers?
-
-Bonus:
-- Are there are any alerts affecting our commute?
+Containerize this application and create a method to deploy it to Kubernetes. We want to see that you are comfortable with basic software development, a typical network stack, and deploying code to a live environment.
